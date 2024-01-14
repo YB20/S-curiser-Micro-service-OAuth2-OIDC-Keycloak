@@ -27,4 +27,3 @@
 <img src="screens/24.png">
 <img src="screens/25.png">
 <img src="screens/26.png">
-<img src="screens/27.png">
